@@ -1,0 +1,9 @@
+{
+  "version": "0.1.18",
+  "url": "https://github.com/gooddaysboy/version/releases/download/v0.1.18/DeskBud_Rabbit_Win_v0118.exe",
+  "sha256": "5d3677a2a8f29f8f9d53a728b0f124239ac70b62206bf99a506d886675247893",
+  "notes": {
+    "zh": "修复升级后仍提示旧版的问题（更新器参数解析 bug）；菜单全部回归朴素样式并左对齐；更新窗口收窄。此版可从任意旧版一跳升级。",
+    "en": "Fixed the updater arg-parsing bug that left the old version running; plain left-aligned menu; narrower update dialog."
+  }
+}
