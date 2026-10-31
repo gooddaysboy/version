@@ -2,8 +2,14 @@
   "versionCode": 33,
   "version": "0.1.32",
   "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.32/DeskBud_Android_v0132.apk",
-  "urls": ["https://github.com/gooddaysboy/version/releases/download/android-v0.1.32/DeskBud_Android_v0132.apk", "https://gitee.com/deskbud/version/releases/download/android-v0.1.32/DeskBud_Android_v0132.apk"],
+  "urls": [
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.32/DeskBud_Android_v0132.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.32/DeskBud_Android_v0132.apk"
+  ],
   "sha256": "f83977260b94f88851cc648fe3e447641b88e8191721df33ea3579eb50894206",
   "size": 28201517,
-  "notes": {"zh": "", "en": ""}
+  "notes": {
+    "zh": "伙伴页全面焕新：选伙伴、换伙伴都在 App 内直接完成，不再依赖网页加载，打开更快更稳；新伙伴支持一次多选领养；领养价格按数量阶梯计算，多选更划算；国际支付卡片说明更清楚，付款后可立即检查结果。",
+    "en": "Buddies page refreshed: pick and switch buddies right inside the app with no web loading - faster and steadier. Multi-select adoption is now supported. Adoption pricing scales by quantity, so picking more saves more. Clearer international payment card, with an instant check after paying."
+  }
 }
