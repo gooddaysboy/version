@@ -1,15 +1,15 @@
 {
-  "versionCode": 35,
-  "version": "0.1.34",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk",
+  "versionCode": 36,
+  "version": "0.1.35",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk"
   ],
-  "sha256": "a8c259e2931cb2ab24246da57e1c445e40bc1bbf5de828bbb7e0f8cc93ef961d",
-  "size": 28210589,
+  "sha256": "222572d1547bc6f6f95329702749c6beac3aa3e5ebb1f5b481f49f291014349a",
+  "size": 28222650,
   "notes": {
-    "zh": "分享卡片焕新：已领养与还没领养的伙伴分两排展示，欢迎语直接印上卡面，底部名片带二维码；回到应用时会更及时地检查新版本；文案与语录更新。",
-    "en": "Refreshed share card: adopted and waiting buddies shown in two rows, greeting printed on the card, QR footer; more timely update checks; copy and quotes updated."
+    "zh": "伙伴墙放大占满首屏、平板/折叠屏自适应、分享卡换立体胶囊版式",
+    "en": "Bigger buddy wall filling the screen, tablet/foldable support, and a new capsule-style share card"
   }
 }
