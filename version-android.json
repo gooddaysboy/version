@@ -1,15 +1,15 @@
 {
-  "versionCode": 34,
-  "version": "0.1.33",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.33/DeskBud_Android_v0133.apk",
+  "versionCode": 35,
+  "version": "0.1.34",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.33/DeskBud_Android_v0133.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.33/DeskBud_Android_v0133.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.34/DeskBud_Android_v0134.apk"
   ],
-  "sha256": "24c0921a2ef5a56d815859f35aac14f199866a386764bb99086e65541cdc7835",
-  "size": 28208021,
+  "sha256": "a8c259e2931cb2ab24246da57e1c445e40bc1bbf5de828bbb7e0f8cc93ef961d",
+  "size": 28210589,
   "notes": {
-    "zh": "伙伴墙会动了：封面与姿态展示卡播放真实动画；价格只在你勾选后才出现；通知栏会跟着宠物说话；日常对话节奏更自然；修复爬墙、倒挂时不说话的问题。",
-    "en": "Pets now move on the buddies wall with real animations; prices appear only after you pick; your pet talks through notifications; livelier chat rhythm; fixed bubbles during climbing and hanging."
+    "zh": "分享卡片焕新：已领养与还没领养的伙伴分两排展示，欢迎语直接印上卡面，底部名片带二维码；回到应用时会更及时地检查新版本；文案与语录更新。",
+    "en": "Refreshed share card: adopted and waiting buddies shown in two rows, greeting printed on the card, QR footer; more timely update checks; copy and quotes updated."
   }
 }
