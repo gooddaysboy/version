@@ -1,11 +1,16 @@
 # DeskBud Version
 
-本仓库仅用于 DeskBud 系列软件的**版本清单与安装包分发**，不是开源项目。
-DeskBud 系列软件为商业软件，**著作权归作者所有，保留所有权利**。
+本仓库用于存放 DeskBud 系列软件的版本清单与安装包，不是开源项目。
+仓库内所有内容**著作权归作者所有，保留所有权利（All Rights Reserved）**。
 
-仓库内的版本清单与安装包仅供 DeskBud 用户下载安装使用，
-未经书面许可，不得再分发、转售、二次打包或用于任何商业用途。
+安装包仅供 DeskBud 用户下载安装本人使用，
+未经书面许可，不得再分发、转售、二次打包或提供给第三方。
 
-This repository only hosts release manifests and installers for DeskBud.
-All software is proprietary; **all rights reserved**. Redistribution,
-resale, or repackaging without written permission is prohibited.
+---
+
+This repository stores version manifests and installers for DeskBud software.
+It is not an open-source project. **All rights reserved.**
+
+Installers are provided solely for DeskBud users to download and install for
+their own use. Redistribution, resale, repackaging, or providing them to any
+third party without written permission is prohibited.
