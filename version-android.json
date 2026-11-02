@@ -1,15 +1,15 @@
 {
-  "versionCode": 37,
-  "version": "0.1.36",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk",
+  "versionCode": 38,
+  "version": "0.1.37",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk"
   ],
-  "sha256": "65f1197beecc258512f1e4a34924a0a148bfd932bc01556d5600b472f7132c70",
-  "size": 28233014,
+  "sha256": "679a0fccc9f5d128840b2930a1e7288f503212d1b5b31f6e0a8107eccbabb22d",
+  "size": 28233082,
   "notes": {
-    "zh": "付款方式那几个小图标更清楚了；伙伴们偶尔会念叨一条官网上的新消息",
-    "en": "Clearer little payment icons — and your buddies now sometimes share a fresh note from the site"
+    "zh": "填邮箱时格式不对会马上提醒，不用再干等十几秒",
+    "en": "A mistyped email address gets caught right away — no more waiting"
   }
 }
