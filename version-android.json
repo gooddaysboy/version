@@ -1,15 +1,15 @@
 {
-  "versionCode": 36,
-  "version": "0.1.35",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk",
+  "versionCode": 37,
+  "version": "0.1.36",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.35/DeskBud_Android_v0135.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.36/DeskBud_Android_v0136.apk"
   ],
-  "sha256": "222572d1547bc6f6f95329702749c6beac3aa3e5ebb1f5b481f49f291014349a",
-  "size": 28222650,
+  "sha256": "65f1197beecc258512f1e4a34924a0a148bfd932bc01556d5600b472f7132c70",
+  "size": 28233014,
   "notes": {
-    "zh": "伙伴墙放大占满首屏、平板/折叠屏自适应、分享卡换立体胶囊版式",
-    "en": "Bigger buddy wall filling the screen, tablet/foldable support, and a new capsule-style share card"
+    "zh": "付款方式那几个小图标更清楚了；伙伴们偶尔会念叨一条官网上的新消息",
+    "en": "Clearer little payment icons — and your buddies now sometimes share a fresh note from the site"
   }
 }
