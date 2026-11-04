@@ -1,15 +1,15 @@
 {
-  "versionCode": 38,
-  "version": "0.1.37",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk",
+  "versionCode": 40,
+  "version": "0.1.39",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.37/DeskBud_Android_v0137.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk"
   ],
-  "sha256": "679a0fccc9f5d128840b2930a1e7288f503212d1b5b31f6e0a8107eccbabb22d",
-  "size": 28233082,
+  "sha256": "8e216b5ec616e0c0dfc96bbe03ac9127e788bbda7d0b6f8c16139ca13255f9f2",
+  "size": 28235778,
   "notes": {
-    "zh": "填邮箱时格式不对会马上提醒，不用再干等十几秒",
-    "en": "A mistyped email address gets caught right away — no more waiting"
+    "zh": "按钮排整齐了，开权限能直接找到它，还多了「开机自动回来」的小开关。",
+    "en": "Buttons line up neatly, permissions open right to your pet, plus a little switch to bring them back after a restart."
   }
 }
