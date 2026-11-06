@@ -1,15 +1,15 @@
 {
-  "versionCode": 40,
-  "version": "0.1.39",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk",
+  "versionCode": 41,
+  "version": "0.1.40",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.39/DeskBud_Android_v0139.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk"
   ],
-  "sha256": "8e216b5ec616e0c0dfc96bbe03ac9127e788bbda7d0b6f8c16139ca13255f9f2",
-  "size": 28235778,
+  "sha256": "a74a066511ba0a26a54546dac5d8f4036e541e53c9b137d5e10db97b4f142ec2",
+  "size": 28257742,
   "notes": {
-    "zh": "按钮排整齐了，开权限能直接找到它，还多了「开机自动回来」的小开关。",
-    "en": "Buttons line up neatly, permissions open right to your pet, plus a little switch to bring them back after a restart."
+    "zh": "换手机不用重买：打开「关于 → 售后支持 → 换机找回」，填下单时用的邮箱，伙伴就自己走回来。同一单可以在手机、Windows、Mac 各点亮一台。",
+    "en": "New phone? No need to buy again. Open About - Support - Move to a new device, enter the email you ordered with, and your buddies walk back by themselves. One order lights up one device on Android, Windows and Mac."
   }
 }
