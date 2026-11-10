@@ -1,15 +1,15 @@
 {
-  "versionCode": 41,
-  "version": "0.1.40",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk",
+  "versionCode": 42,
+  "version": "0.1.41",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.40/DeskBud_Android_v0140.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk"
   ],
-  "sha256": "a74a066511ba0a26a54546dac5d8f4036e541e53c9b137d5e10db97b4f142ec2",
-  "size": 28257742,
+  "sha256": "c851ba369458af9bc591f6c02c3059478ad28a07286ec71076c78e34c4582006",
+  "size": 28286406,
   "notes": {
-    "zh": "换手机不用重买：打开「关于 → 售后支持 → 换机找回」，填下单时用的邮箱，伙伴就自己走回来。同一单可以在手机、Windows、Mac 各点亮一台。",
-    "en": "New phone? No need to buy again. Open About - Support - Move to a new device, enter the email you ordered with, and your buddies walk back by themselves. One order lights up one device on Android, Windows and Mac."
+    "zh": "本次更新：\n· 出场引导换成 13 句轮播，每次登场随机两句，一天最多三次\n· 退出后伙伴不会再自己回来，想找它就重新打开\n· 专心模式切换更干净\n· 多只伙伴说话不再重复同一句，各有各的话\n· 久坐提醒的时间更准",
+    "en": "What's new:\n- 13 rotating lines on entry, two picked at random each time, up to 3 times a day\n- Pets no longer come back by themselves after you exit\n- Cleaner Focus mode switching\n- Multiple buddies no longer repeat the same line, each has its own\n- More accurate long-sitting reminder"
   }
 }
