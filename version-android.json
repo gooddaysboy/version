@@ -1,15 +1,15 @@
 {
-  "versionCode": 42,
-  "version": "0.1.41",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk",
+  "versionCode": 43,
+  "version": "0.1.42",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.41/DeskBud_Android_v0141.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk"
   ],
-  "sha256": "c851ba369458af9bc591f6c02c3059478ad28a07286ec71076c78e34c4582006",
-  "size": 28286406,
+  "sha256": "0983fd89bfa018746d0a26042f0a011f3c09fd14ab59e9623d4267ac9e9e4d5a",
+  "size": 28286894,
   "notes": {
-    "zh": "本次更新：\n· 出场引导换成 13 句轮播，每次登场随机两句，一天最多三次\n· 退出后伙伴不会再自己回来，想找它就重新打开\n· 专心模式切换更干净\n· 多只伙伴说话不再重复同一句，各有各的话\n· 久坐提醒的时间更准",
-    "en": "What's new:\n- 13 rotating lines on entry, two picked at random each time, up to 3 times a day\n- Pets no longer come back by themselves after you exit\n- Cleaner Focus mode switching\n- Multiple buddies no longer repeat the same line, each has its own\n- More accurate long-sitting reminder"
+    "zh": "分享卡升级：定位词「永久免费 · 功能全开」紧跟主句下一行，卡底更清爽；品牌网址统一小写。",
+    "en": "Share card update: the free-forever tagline now sits right under the main line; cleaner card bottom; domain in lowercase."
   }
 }
