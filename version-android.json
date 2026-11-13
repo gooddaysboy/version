@@ -1,15 +1,15 @@
 {
-  "versionCode": 43,
-  "version": "0.1.42",
-  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk",
+  "versionCode": 44,
+  "version": "0.1.43",
+  "url": "https://github.com/gooddaysboy/version/releases/download/android-v0.1.43/DeskBud_Android_v0143.apk",
   "urls": [
-    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk",
-    "https://gitee.com/deskbud/version/releases/download/android-v0.1.42/DeskBud_Android_v0142.apk"
+    "https://github.com/gooddaysboy/version/releases/download/android-v0.1.43/DeskBud_Android_v0143.apk",
+    "https://gitee.com/deskbud/version/releases/download/android-v0.1.43/DeskBud_Android_v0143.apk"
   ],
-  "sha256": "0983fd89bfa018746d0a26042f0a011f3c09fd14ab59e9623d4267ac9e9e4d5a",
-  "size": 28286894,
+  "sha256": "6fe3083d9a3c77bfaa7a1d6cbf27c7862d86a568e69d528c4323cf7e10bf0822",
+  "size": 28305458,
   "notes": {
-    "zh": "分享卡升级：定位词「永久免费 · 功能全开」紧跟主句下一行，卡底更清爽；品牌网址统一小写。",
-    "en": "Share card update: the free-forever tagline now sits right under the main line; cleaner card bottom; domain in lowercase."
+    "zh": "横屏修复：伙伴不再跑到屏幕上方外面去。大小改为按你的屏幕自动计算，换手机也合适；爬到顶部时贴着屏幕边缘，不会被切掉半个头。另外，两只伙伴挤在一起时会自动让开一点，方便点下面的按钮。",
+    "en": "Landscape fix: buddies no longer run off the top edge. Their size now follows your screen, so it fits on any phone; when climbing to the top they stay flush with the edge instead of getting their head cut off. Also, when two buddies crowd together, one steps aside so buttons underneath are easy to tap."
   }
 }
